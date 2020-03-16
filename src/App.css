@@ -1,0 +1,26 @@
+label {
+  display: flex;
+  flex-direction: column;
+  font-family: Trebuchet MS, sans-serif;
+  margin-left: 45%;
+  font-weight: 900;
+};
+
+button {
+margin-left: 80px;
+  
+}
+
+input{
+  display: flex;
+  font-family: Trebuchet MS, sans-serif;
+  margin-left: 45%;
+  margin-top: 20px;
+};
+
+.note{
+  display: flex;
+  font-family: Trebuchet MS, sans-serif;
+  margin-left: 45%;
+  margin-top: 20px;
+}
